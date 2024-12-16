@@ -24,7 +24,7 @@ Follow these steps to run the project on your local machine:
 Clone the repository:
 
 bash:
-git clone https://github.com/yourusername/phonebook-app.git
+git clone https://github.com/Sailortr/goit-react-hw-07.git
 cd phonebook-app
 
 Install dependencies:
